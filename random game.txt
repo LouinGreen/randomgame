@@ -1,0 +1,39 @@
+random guess function
+https://codepen.io/enealefons/pen/qBQpZvb
+
+
+termino js rpg
+https://codepen.io/MarketingPipeline/details/RwqPVdO
+
+
+memory game
+https://codepen.io/kreamdagoat/pen/OJBdNEK
+
+
+dice roll
+https://codepen.io/ksenia-k/pen/QWZVvxm
+
+
+rpg text based
+https://codepen.io/robynlam/pen/ExOoQxd
+
+rock paper scissors
+https://codepen.io/liamjmc0900/pen/bGmKOaB
+
+quiz feature
+https://codepen.io/RiniSW/pen/WNYXbXp
+
+money system
+https://codepen.io/thegraveyardsys_06/pen/zYmqjOq
+
+left right stabilize
+https://codepen.io/pr0h0/pen/OJajRyR
+good for sorcery type fighting feature
+
+
+decision maker 
+https://codepen.io/DahlPerspective/pen/wvQqBKJ
+
+
+tic tac toe
+https://codepen.io/artistkai/details/OJaWjZq
